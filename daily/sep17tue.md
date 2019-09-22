@@ -5,8 +5,8 @@
 Keyfigures: Gillian Crampton-Smith, Bill Moggrdige, Bill Verplank, Donald Norman
 
 
-[https://vimeo.com/83683447](Bill Veplank, Interaction Design, from Designing Interaction)
-[https://vimeo.com/86733828](Gillian Crampton-Smith, Interaction '14 Keynote)
+[Bill Veplank, Interaction Design, from Designing Interaction](https://vimeo.com/83683447)
+[Gillian Crampton-Smith, Interaction '14 Keynote](https://vimeo.com/86733828)
 
 ###Extras
-[https://vimeo.com/326960358](Bill Moggrdige)
+[Bill Moggrdige](https://vimeo.com/326960358)
