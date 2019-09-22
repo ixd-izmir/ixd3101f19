@@ -1,4 +1,4 @@
-# Introduction to ixD
+# 17 September: Introduction to ixD
 ## Examples of projects from the previous years
 
 ## What is IxD?
