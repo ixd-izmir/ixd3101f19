@@ -1,7 +1,7 @@
-#Introduction to ixD
-##
+# Introduction to ixD
+## Examples of projects from the previous years
 
-##What is IxD?
+## What is IxD?
 Keyfigures: Gillian Crampton-Smith, Bill Moggrdige, Bill Verplank, Donald Norman
 
 
