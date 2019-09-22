@@ -56,7 +56,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Sep 17<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep17tue.md) | WhatIsIxD p1 | |
 | 1 | [Sep 20<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep20fri.md) | Processing reminder (x1), P1 Launch, h1 Review | |
-| 2 | [Sep 24<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | P1 planning review | [P1 planning](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/p1_planning.md)|
+| 2 | [Sep 24<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | P1 planning review | [P1 planning](https://github.com/ixd-izmir/ixd3101f18/blob/master/projects/p1.md)|
 
 
 ## Ethical Rules
