@@ -15,3 +15,8 @@ The interface will work on a large touch-screen.
 
 ### Phase 1: Planning
 The teams are asked to prepare their own plan including establishing the best methodology to resolve the project.
+The plan should incluede:
+- a gantt chart
+- team responsibility
+- milestones and deliverables
+- references of deliverable examples
