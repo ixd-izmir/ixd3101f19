@@ -1,4 +1,4 @@
-#P1 kiosk
+# P1 kiosk
 
 ### Duration
 4 weeks
