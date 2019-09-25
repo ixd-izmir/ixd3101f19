@@ -20,3 +20,9 @@ The plan should incluede:
 - team responsibility
 - milestones and deliverables
 - references of deliverable examples
+
+### Phase 2: Research
+#### Step 1: Comparative Research
+Topics
+- archive browsing interface
+- alternatıve devices: web, mobile, touchscreen
