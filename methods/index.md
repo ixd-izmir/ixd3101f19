@@ -1,4 +1,12 @@
+[How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
+
 [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
+
+Kiosk Re-design Methods
+
+-UX review and redesign of Coca Cola Kiosk UI [+](https://medium.theuxblog.com/ux-review-and-redesign-of-the-cocacola-freestyle-kiosk-interface-f77fc087c09)
+-Tips for touch friendly kiosk UI design [+](https://blog.kiosksimple.com/2014/09/11/7-tips-for-touch-friendly-kiosk-user-interface-design/)
 
 
 [UX Design Methods and Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) by UxDesign.cc 
