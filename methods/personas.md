@@ -1,6 +1,6 @@
 # Persona
 
-[Slides](http://www.dan.sv.it/teaching/ixd307f17/files/personaPres.pdf)
+[Lecture Slides](http://www.dan.sv.it/teaching/ixd307f17/files/personaPres.pdf)
 
 ## Provisional personas
 "Provisional personas are structured much like real personas but rely on available data
