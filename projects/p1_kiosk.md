@@ -25,4 +25,5 @@ The plan should incluede:
 #### Step 1: Comparative Research
 Topics
 - archive browsing interface
-- alternatıve devices: web, mobile, touchscreen
+- touchscreen / kiosk
+- alternative devices: web, mobile
