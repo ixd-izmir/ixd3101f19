@@ -1,3 +1,5 @@
+[Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
 
 [UX Design Methods and Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) by UxDesign.cc 
 
