@@ -33,3 +33,10 @@
 - Prototypes (+)
 - Pattern Library (+)
 
+Studios
+- continuum
+- cooper
+- frog
+- ideo
+- ustwo
+- fjord
