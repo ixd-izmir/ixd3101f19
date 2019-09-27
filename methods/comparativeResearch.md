@@ -15,4 +15,5 @@ Kuniavsky 2012
 ## References
 Kuniavsky 2012 (79-92) Competitive research
 Hanington 2012 (36) Competitive testing
+["How to conduct a competitive analysis"](http://www.dan.sv.it/teaching/ixd307f17/files/Kolko-SCAD-CompetitiveAnalysis.pdf), Jon Kolko 
 
