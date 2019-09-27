@@ -11,6 +11,7 @@ Kiosk Re-design Methods
 
 -Tips for touch friendly kiosk UI design [+](https://blog.kiosksimple.com/2014/09/11/7-tips-for-touch-friendly-kiosk-user-interface-design/)
 
+[Wireframes, flows, personas and beautifully crafted UX deliverables](https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62) for your inspiration Fabricio Teixeira @uxdesign.cc
 
 [UX Design Methods and Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) by UxDesign.cc 
 
