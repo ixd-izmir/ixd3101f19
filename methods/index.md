@@ -8,6 +8,7 @@
 Kiosk Re-design Methods
 
 -UX review and redesign of Coca Cola Kiosk UI [+](https://medium.theuxblog.com/ux-review-and-redesign-of-the-cocacola-freestyle-kiosk-interface-f77fc087c09)
+
 -Tips for touch friendly kiosk UI design [+](https://blog.kiosksimple.com/2014/09/11/7-tips-for-touch-friendly-kiosk-user-interface-design/)
 
 
