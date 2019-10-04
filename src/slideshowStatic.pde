@@ -1,4 +1,9 @@
-// Slideshow static version (not parametric not extendable)
+/* 
+  ixd3101f19 - Slideshow static version (not parametric not extendable)
+  in-class example for P1
+  oct4Fri
+  @Daniele Savasta 
+*/
 
 PImage slide1;
 PImage slide2;
