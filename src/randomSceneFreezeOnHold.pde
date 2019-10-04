@@ -1,4 +1,11 @@
-// This piece of code generate a random number below 10 constantly and shows the changing value until you press the "button" to freeze it 
+/* 
+  ixd3101f19 - This piece of code generate a random number below 10 constantly and shows the changing value until 
+  you press the "button" to freeze it 
+  in-class example
+  sept24Fri
+  @Daniele Savasta 
+*/
+
 int scene=0;
 
 void setup() {
