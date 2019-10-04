@@ -57,7 +57,9 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 1 | [Sep 17<br>Tue](https://github.com/ixd-izmir/ixd3101f19/blob/master/daily/sep17tue.md) | WhatIsIxD p1 | |
 | 1 | [Sep 20<br>Fri](https://github.com/ixd-izmir/ixd3101f19/blob/master/daily/sep20fri.md) | Processing reminder (x1), P1 Launch, h1 Review | |
 | 2 | [Sep 24<br>Tue](https://github.com/ixd-izmir/ixd3101f19/blob/master/daily/sep24tue.md) | P1 planning review | [P1 planning](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
-| 2 | [Fri 27<br>Tue]() | P1 planning review | [P1 research](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
+| 2 | [Sep 27<br>Tue]() | P1 planning review | [P1 research](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
+| 2 | [Oct 1<br>Tue]() | P1 persona review | [P1 research](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
+| 2 | [Oct 4<br>Fri](https://github.com/ixd-izmir/ixd3101f19/blob/master/daily/oct4fri.md) | Processing / P1 Crit  | |
 
 
 ## Ethical Rules
