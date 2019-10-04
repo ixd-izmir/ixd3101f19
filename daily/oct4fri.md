@@ -2,4 +2,4 @@
 
 Introduction to arrays
 code
-[src/slideshowStatic.pde](Slideshow static)
+[../src/slideshowStatic.pde](Slideshow static)
