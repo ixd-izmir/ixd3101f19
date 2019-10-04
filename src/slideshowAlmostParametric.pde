@@ -1,4 +1,10 @@
-// Slideshow "Almost" Parametric
+/* 
+  ixd3101f19 - Slideshow "Almost" Parametric
+  in-class example for P1
+  oct4Fri
+  @Daniele Savasta
+*/
+
 PImage[] slide;
 
 int index=0;
