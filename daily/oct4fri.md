@@ -1,7 +1,7 @@
-** Processing
+## Processing
 
-*** Introduction to arrays
-*** Example of a slideshow
+### Introduction to arrays
+### Example of a slideshow
 
 - [Slideshow static](../src/slideshowStatic.pde)
 - [Slideshow Almost Parametric](../src/slideshowAlmostParametric.pde)
