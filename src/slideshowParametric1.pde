@@ -1,4 +1,10 @@
-// Slideshow Parametric Version 1
+/* 
+  ixd3101f19 - Slideshow Parametric Version 1
+  in-class example for P1
+  oct4Fri
+  @Daniele Savasta
+*/
+
 PImage[] slide;
 
 int index=0;
