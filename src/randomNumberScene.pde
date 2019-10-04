@@ -1,4 +1,11 @@
-// This piece of code generate a random number below 10 every time you release the mouse button and visualize it with different colors
+/* 
+  ixd3101f19 - Random Number Scene
+  in-class example for P1
+  sep20Fri
+  @Daniele Savasta
+  
+  This piece of code generate a random number below 10 every time you release the mouse button and visualize it with different colors
+*/
 
 int scene=0;
 
