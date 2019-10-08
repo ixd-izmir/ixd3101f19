@@ -60,7 +60,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 2 | Sep 27<br>Tue | P1 planning review | [P1 research](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
 | 3 | Oct 1<br>Tue | P1 persona review | [P1 research](https://github.com/ixd-izmir/ixd3101f19/blob/master/projects/p1_kiosk.md)|
 | 3 | [Oct 4<br>Fri](https://github.com/ixd-izmir/ixd3101f19/blob/master/daily/oct4fri.md) | Processing / P1 Crit  | |
-
+| 4	| [Oct 8<br>Tue]() | Processing / P1 Crit | | 
 
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
