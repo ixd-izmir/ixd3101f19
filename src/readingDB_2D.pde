@@ -1,7 +1,7 @@
 /* 
   ixd3101f19 - Database reading
   in-class example for P1
-  sep20Fri
+  oct11Fri
   @Ceren Kayalar, Daniele Savasta
   
   This sketch generate a random number below 10 every time you release the mouse button and visualize the content of a file string acording to its line number
