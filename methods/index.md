@@ -4,6 +4,7 @@
 
 [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
+[The monster list of UX books](https://airtable.com/universe/expqM3OWZoJkjl7wy/the-monster-list-of-ux-books)
 
 Kiosk Re-design Methods
 
